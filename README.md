@@ -1,16 +1,27 @@
-## Hi there 👋
+# Steven Boyer
 
-<!--
-**TransientWarper/TransientWarper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in technical support and integrations, with a particular interest in the messy problems that sit between users, applications, APIs, data flows, and the backend.
 
-Here are some ideas to get you started:
+A lot of the work I enjoy starts with something behaving differently than expected and figuring out **where the problem actually lives**: tracing data through systems, digging through logs and databases, troubleshooting integrations, and turning an ambiguous issue into something reproducible and fixable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building toward deeper support engineering, integration engineering, and technical product work.
+
+## Projects
+
+### [Coastal Affordability Pressure Tracker](https://github.com/TransientWarper/coastal-affordability-pressure)
+
+A county-level ETL and GIS project tracking the relationship between home values and household income across the continental U.S.
+
+Built with Python using Zillow ZHVI and Census ACS data, with a focus on geographic joins, FIPS normalization, data validation, reproducibility, and QGIS visualization.
+
+### [Field Deployment Recommender](https://github.com/TransientWarper/Field-Deployment-Recommender)
+
+A Python and Streamlit tool for evaluating terrain suitability using elevation and slope data.
+
+Built with Rasterio, NumPy, Plotly, Matplotlib, and digital elevation model data.
+
+## Tools & technologies
+
+**Python · SQL · APIs · ETL · XML · Git · QGIS / GIS**
+
+Currently getting deeper with **PostgreSQL, FastAPI, OAuth, authentication, API integrations, and automated testing**.
