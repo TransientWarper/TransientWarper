@@ -2,7 +2,7 @@
 
 I work in technical support and integrations, with a particular interest in the messy problems that sit between users, applications, APIs, data flows, and the backend.
 
-A lot of the work I enjoy starts with something behaving differently than expected and figuring out **where the problem actually lives**: tracing data through systems, digging through logs and databases, troubleshooting integrations, and turning an ambiguous issue into something reproducible and fixable.
+A lot of the work I enjoy starts with something behaving differently than expected and figuring out **where the problem actually lives**: tracing data through systems, digging through logs and databases, troubleshooting integrations, and turning an ambiguous issue into something reproducible and fixable. It all started playing with the AV In/OUT cables and ports when trying to hook up my NES to the big console TV in my family's living room as a kid trying to sneak in some extra gaming time in. 
 
 I'm currently building toward deeper support engineering, integration engineering, and technical product work.
 
